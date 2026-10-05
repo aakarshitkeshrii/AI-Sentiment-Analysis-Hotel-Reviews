@@ -1,50 +1,37 @@
-# AI-Sentiment-Analysis-Hotel-Reviews
 # AI Sentiment Analysis for Hotel Reviews
 
-## Project Overview
+## Overview
 
-This project analyses hotel customer reviews using Artificial Intelligence and Natural Language Processing (NLP).
+This project analyses hotel customer reviews using Natural Language Processing (NLP) and Sentiment Analysis techniques.
 
-The system reads customer reviews and classifies them into:
+## Features
 
-- Positive
-- Negative
-- Neutral
+- Sentiment Classification
+- Positive and Negative Review Analysis
+- Word Cloud Visualisation
+- Sentiment Distribution Charts
+- Interactive Streamlit Dashboard
+- KPI Metrics
+- Search Reviews
+- Sentiment Filtering
 
-## Dataset
-
-TripAdvisor Hotel Reviews Dataset
-
-## Tools Used
+## Technologies
 
 - Python
-- Google Colab
 - Pandas
 - TextBlob
 - Matplotlib
 - Seaborn
 - WordCloud
+- Streamlit
+- Google Colab
 
-## Project Workflow
+## Files
 
-1. Load hotel review dataset
-2. Clean review text
-3. Perform sentiment analysis
-4. Classify reviews
-5. Visualize results
-6. Generate word clouds
-
-## Results
-
-The model successfully classified customer reviews into positive, negative, and neutral categories.
-
-## Future Improvements
-
-- Use BERT model
-- Create Streamlit dashboard
-- Analyse real-time reviews
+- Sentiment_Analysis_Project.ipynb
+- app.py
+- sentiment_results.csv
 
 ## Author
 
 Aakarshit Keshri
-MSc International Business Management (Marketing)
